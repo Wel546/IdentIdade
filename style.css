@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(99, 53, 53);
+    color: rgb(238, 206, 164);
+    font: normal 15pt Arial;
+}
+
+
+header {
+    text-align: center;
+}
+
+section {
+    background: rgb(238, 206, 164);
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 6px black;
+    color: rgb(58, 20, 20);
+}
+
+#espacoFoto {
+    text-align: center;
+}
+
+#ftRes {
+    border-radius: 200px;
+    visibility: hidden;
+    width: 0;
+}
+
+footer {
+    font-size: 15 px;
+    font-style: italic;
+    text-align: center;
+}
